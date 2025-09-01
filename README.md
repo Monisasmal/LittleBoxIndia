@@ -48,7 +48,19 @@ Smooth navigation with fixed header, search, cart, and account options
 ![image](https://github.com/user-attachments/assets/b2b34a81-dc4d-4f92-8b6b-beffc5e3dcdc)
 ![image](https://github.com/user-attachments/assets/670fdf12-80a6-479f-9345-4a91dd67fa9f)
 
-Made with ❤️ by Manaswini Sasmal
+🙋‍♀️ Author
+
+## Manaswini Sasmal
+
+👩‍💻 Frontend Developer | React Enthusiast
+
+🔗 Portfolio -- https://manaswini-portfolio.vercel.app/
+
+📧 manaswinisasamal559@gmail.com
+
+🔗 LinkedIn - https://www.linkedin.com/in/manaswini-sasmal-b77a21162/
+
+🔗 GitHub - https://github.com/Monisasmal
 
 
 
