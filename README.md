@@ -1,12 +1,12 @@
-**👗 LittleBox India — Fast Fashion, Faster Delivery**
+## 👗 LittleBox India — Fast Fashion, Faster Delivery
 
-**✨ Project Overview**
+## ✨ Project Overview
 
 LittleBox India is a modern fashion e-commerce landing page designed for India's trend-conscious shoppers. It offers ready-to-wear curated collections with a strong focus on mood-based shopping, quick navigation, and an engaging user experience.
 
 The site is built using HTML, CSS, ensuring fast performance and compatibility without heavy frameworks.
 
-**📌 Key Features**
+## 📌 Key Features
 
 **🛍 Mood-Based Shopping**
 
@@ -41,7 +41,7 @@ Social proof with testimonials highlighting brand values
 Instagram-friendly style showcase under #GoBeYou
 Smooth navigation with fixed header, search, cart, and account options
 
-**Images**
+## Images
 ![image](https://github.com/user-attachments/assets/316b7b5f-d039-4f65-9b19-9144169e75cf)
 ![image](https://github.com/user-attachments/assets/4a3d4ac2-a456-4db8-8f7a-b63b12de61b5)
 ![image](https://github.com/user-attachments/assets/51754620-851b-4cfd-8458-5ddf87ea1d6c)
