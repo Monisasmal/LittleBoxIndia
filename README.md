@@ -55,9 +55,7 @@ Smooth navigation with fixed header, search, cart, and account options
 
 ---
 
-🙋‍♀️ Author
-
-## Manaswini Sasmal
+## 🙋‍♀️ Author - Manaswini Sasmal
 
 👩‍💻 Frontend Developer | React Enthusiast
 
